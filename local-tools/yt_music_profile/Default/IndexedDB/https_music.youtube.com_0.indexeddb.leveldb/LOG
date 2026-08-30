@@ -1,0 +1,9 @@
+2026/08/29-20:14:02.947 6348 Reusing MANIFEST C:\Users\Chiru\Desktop\agent_2\local-tools\yt_music_profile\Default\IndexedDB\https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/29-20:14:02.948 6348 Recovering log #19
+2026/08/29-20:14:02.950 6348 Reusing old log C:\Users\Chiru\Desktop\agent_2\local-tools\yt_music_profile\Default\IndexedDB\https_music.youtube.com_0.indexeddb.leveldb/000019.log 
+2026/08/29-20:14:05.408 6348 Compacting 1@1 + 1@2 files
+2026/08/29-20:14:05.416 6348 Generated table #22@1: 949 keys, 49116 bytes
+2026/08/29-20:14:05.417 6348 Compacted 1@1 + 1@2 files => 49116 bytes
+2026/08/29-20:14:05.418 6348 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/29-20:14:05.418 6348 Delete type=2 #17
+2026/08/29-20:14:05.418 6348 Delete type=2 #20

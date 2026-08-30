@@ -35,8 +35,8 @@ def clean_title(title: str) -> str:
         )
 
     # Remove leading track numbers such as:
-    # "02 - Naalona Pongenu"
-    # "04 - Mrogindi"
+    # "02
+    # "04 
     cleaned = re.sub(
         r"^\s*\d{1,3}\s*[-_.]\s*",
         "",
